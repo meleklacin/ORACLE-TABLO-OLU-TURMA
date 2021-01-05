@@ -8,3 +8,6 @@ Her proje bir ya da daha çok müşteride çalıştırılma gereksinimine sahip 
 Bu senaryodan hareketle aşağıdaki gibi bir model oluşmuş olur.
 ![My image](https://github.com/meleklacin/ORACLE-TABLO-OLU-TURMA/blob/main/Model.png)
 
+
+Burada Local bağlantısından Firma şeması oluşturarak tablolarımızı oluşturduk.Ancak değiştirmek istediğiniz takdirde direk Firma bağlantısı oluşturupda tablolarınızı oluşturabilirsiniz.
+
